@@ -49,3 +49,28 @@
 #cuerpoContacto{
     margin-top: 200px;
 }
+
+/* PRODUCTOS */
+
+#cuerpoProductos{
+    margin-top: 200px;
+}
+
+.imgProd{
+    width: 200px;
+    padding: 10px;
+
+}
+
+.borProd{
+    border: 1px solid black;
+    margin: 10px;
+}
+p{
+    font-family: 'Stint Ultra Condensed', cursive;
+    text-align: center;
+}
+h3{
+     font-family: 'Stint Ultra Condensed', cursive;
+    text-align: center;
+}
