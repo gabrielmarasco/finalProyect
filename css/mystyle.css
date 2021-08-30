@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Merienda:wght@700&family=Stint+Ultra+Condensed&display=swap"); /* TITULO */
+/* font-family: 'Merienda', cursive; */ /* TITULO */
+@import url("https://fonts.googleapis.com/css2?family=Stint+Ultra+Condensed&display=swap"); /* CUERPO */
+/* font-family: 'Stint Ultra Condensed', cursive; */ /* CUERPO */
+
+
+.h1Titulo{
+    color: black;
+    font-family: 'Merienda', cursive;
+    font-weight: 500;
+    padding: 10px;
+}
+
+.backHeader{
+    background: rgb(255, 66, 244);
+  background: linear-gradient(
+    90deg,
+    rgba(255, 66, 244, 1) 39%,
+    rgba(162, 52, 149, 0.9653579676674365) 100%
+  );
+}
+
+.botMenu{
+       font-family: 'Stint Ultra Condensed', cursive;
+       font-size: 1.5rem;
+}
+
+.imgHeader{
+    width: 50px;
+    margin-right: 50px;
+    border: 1px solid black;
+}
+
+#carouselExampleSlidesOnly{
+    margin-top: 200px;
+}
+
+.footer {
+  margin-top: 50px;
+  background: rgb(255, 66, 244);
+  background: linear-gradient(
+    90deg,
+    rgba(255, 66, 244, 1) 39%,
+    rgba(162, 52, 149, 0.9653579676674365) 100%
+  );
+}
