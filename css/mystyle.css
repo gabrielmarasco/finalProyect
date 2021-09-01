@@ -33,6 +33,10 @@
 
 #carouselExampleSlidesOnly{
     margin-top: 200px;
+    align-items: center;
+}
+#carouselExampleSlidesOnly img{
+    max-width: 600px;
 }
 
 .footer {
