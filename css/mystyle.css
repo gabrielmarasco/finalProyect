@@ -20,6 +20,8 @@
   );
 }
 
+
+
 .botMenu{
        font-family: 'Stint Ultra Condensed', cursive;
        font-size: 1.5rem;
@@ -31,13 +33,11 @@
     border: 1px solid black;
 }
 
-#carouselExampleSlidesOnly{
+#carouselExampleFade{
     margin-top: 200px;
-    align-items: center;
 }
-#carouselExampleSlidesOnly img{
-    max-width: 600px;
-}
+ 
+
 
 .footer {
   margin-top: 50px;
